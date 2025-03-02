@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/leafdown/connector-wechat/i18n"
+	"github.com/leafdown/answer-plugins/connector-wechat/i18n"
 	"github.com/apache/incubator-answer/plugin"
 	oauth2Wechat "github.com/EastWoodYang/goauth"
 )
@@ -31,7 +31,7 @@ func (g *Connector) Info() plugin.Info {
 		Description: plugin.MakeTranslator(i18n.InfoDescription),
 		Author:      "HassBox",
 		Version:     "0.0.1",
-		Link:        "https://github.com/EastWoodYang/connector-wechat",
+		Link:        "https://github.com/leafdown/answer-plugins/connector-wechat",
 	}
 }
 
