@@ -1,4 +1,4 @@
-module github.com/leafdown/connector-wechat
+module github.com/leafdown/answer-plugins/connector-wechat
 
 go 1.19
 
