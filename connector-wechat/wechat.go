@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/EastWoodYang/connector-wechat/i18n"
+	"github.com/leafdown/connector-wechat/i18n"
 	"github.com/apache/incubator-answer/plugin"
 	oauth2Wechat "github.com/EastWoodYang/goauth"
 )
