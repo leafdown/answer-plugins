@@ -1,4 +1,4 @@
-module github.com/EastWoodYang/connector-wechat
+module github.com/leafdown/connector-wechat
 
 go 1.19
 
