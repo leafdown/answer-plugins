@@ -2,8 +2,6 @@ github.com/BurntSushi/toml v1.0.0 h1:dtDWrepsVPfW9H/4y7dDgFc2MBUSeJhlaDtK13CxFlU
 github.com/BurntSushi/toml v1.0.0/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=
 github.com/EastWoodYang/glib v1.0.3 h1:NKBmnGbS6WXpnuH9amauwWlp4mXtgR/76QURCiFldXU=
 github.com/EastWoodYang/glib v1.0.3/go.mod h1:IL7/Q9CA8bDEo6wltE3QxSW4NNcF4PAwBsTX3ktjZO0=
-github.com/EastWoodYang/goauth v0.0.2 h1:AW1UmyUkOxkM8Swk94tadO1nAy7wzOcKWNBb4I10278=
-github.com/EastWoodYang/goauth v0.0.2/go.mod h1:acz1OgIvMcJtT5DnrYB+ZNqHE6dNFKdAaftfEAMGrao=
 github.com/LinkinStars/go-i18n/v2 v2.2.2 h1:ZfjpzbW13dv6btv3RALKZkpN9A+7K1JA//2QcNeWaxU=
 github.com/LinkinStars/go-i18n/v2 v2.2.2/go.mod h1:hLglSJ4/3M0Y7ZVcoEJI+OwqkglHCA32DdjuJJR2LbM=
 github.com/apache/incubator-answer v1.3.6 h1:OddJdWqDrgIKY2wnLOipT3mjNI9h7fLNc4eEyyUp+hs=

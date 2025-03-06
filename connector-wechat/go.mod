@@ -3,7 +3,6 @@ module github.com/leafdown/answer-plugins/connector-wechat
 go 1.19
 
 require (
-	github.com/EastWoodYang/goauth v0.0.2
 	github.com/apache/incubator-answer v1.3.6
 )
 
