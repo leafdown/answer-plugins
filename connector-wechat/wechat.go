@@ -205,10 +205,7 @@ func (g *Connector) ConfigFields() []plugin.ConfigField {
 		},
 	}
 }
-	err := json.Unmarshal(config, c)
-	if err != nil {
-		return err
-	}
+
 func (g *Connector) ConfigReceiver(config []byte) error {
 	c := &ConnectorConfig{}
 	_ = json.Unmarshal(config, c)
